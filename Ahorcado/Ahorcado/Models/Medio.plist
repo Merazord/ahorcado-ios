@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>maceta</string>
+	<string>numero</string>
+	<string>palabra</string>
+	<string>teclado</string>
+	<string>bateria</string>
+	<string>celular</string>
+	<string>periodo</string>
+	<string>caliente</string>
+	<string>camiseta</string>
+	<string>calcetin</string>
+	<string>chamarra</string>
+	<string>nacido</string>
+	<string>nachos</string>
+	<string>sabado</string>
+	<string>tabaco</string>
+	<string>ulcera</string>
+	<string>ciudad</string>
+	<string>irrita</string>
+	<string>biblia</string>
+	<string>grande</string>
+	<string>flores</string>
+	<string>basico</string>
+	<string>bonito</string>
+	<string>ahorra</string>
+	<string>digito</string>
+	<string>perico</string>
+	<string>ballena</string>
+</array>
+</plist>
